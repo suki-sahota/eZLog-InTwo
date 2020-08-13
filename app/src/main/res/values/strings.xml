@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">EnhancedConsultant</string>
+    <string name="employee_user_name">Employee user name…</string>
+    <string name="employee_user_password">Employee password…</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="username_hint">User name</string>
+    <string name="create_new_user_account">Create Account</string>
+    <string name="user_sign_in">Sign In</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="company_first_name">Enhance</string>
+    <string name="company_last_name">IT</string>
+    <string name="user_credentials">User Credentials</string>
+    <string name="account_setup">Account Setup</string>
+    <string name="create_account">Create Account</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_type">Task Type</string>
+    <string name="accept_task">Accept</string>
+    <string name="decline_task">Decline</string>
+    <string name="assigned_task">Assigned Task</string>
+    <string name="assigned_by">Assigned By</string>
+    <string name="daily_tasks">Daily Tasks</string>
+    <string name="default_date_time">Mon, Jan 1, 1969, 8:00 AM</string>
+    <string name="default_due_date_time">Due by: Mon, Jan 1, 1969 1:00 PM</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_email">Email</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="task_description">Task Description</string>
+    <string name="assign_task">Assign</string>
+    <string name="employee_email">Employee Email</string>
+    <string name="task_todo">Task to complete</string>
+    <string name="set_date_time">Set</string>
+    <string name="time_separator">:</string>
+    <string name="select_task_due_date">Due Date</string>
+    <string name="cancel_date_time">Cancel</string>
+    <string name="task_due_date">Set Due Date</string>
+    <string name="remember_user_name">Remember Username</string>
+    <string name="fingerprint_sign_in">Fingerprint Sign In</string>
+    <string name="fingerprint_image">Fingerprint Image</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="default_time_of_day">Good Morning</string>
+    <string name="default_user_name">John Doe</string>
+    <string name="home_tasks_option">Tasks</string>
+    <string name="logout_off_app">Logout</string>
+    <string name="tasks_to_complete">Tasks to complete</string>
+    <string name="view_task_arrow">View Task</string>
+    <string name="morning_greeting">Good Morning,</string>
+    <string name="afternoon_greeting">Good Afternoon,</string>
+    <string name="evening_greeting">Good Evening,</string>
+    <string name="night_greeting">Good Night,</string>
+    <string name="default_task_id">Task Id: id1234567</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="admin_uid">Type a message</string>
+    <string name="complete_task">Complete</string>
+    <string name="server_connect_message">Server Connection Failure</string>
+</resources>
